@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "namor": "^2.0.2",
+    "react-bootstrap": "^1.4.0",
+    "react-table": "^7.6.0",
+    "styled-components": "^5.2.0"
+  }
+}
